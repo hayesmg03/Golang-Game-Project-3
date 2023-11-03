@@ -1,0 +1,103 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "MitchHayes_Project2/tile-map.tmx",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "#lvl1": {
+            "dynamicWrapping": false
+        },
+        "#main": {
+            "dynamicWrapping": true
+        },
+        "#miain": {
+            "scaleInEditor": 1
+        },
+        "MitchHayes_Project2/assets/tile-map.tmx": {
+            "scale": 0.9321875,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 320.2145491116326,
+                "y": 320.2145491116326
+            }
+        },
+        "MitchHayes_Project2/assets/tile-map.tmx#TX Props": {
+            "scaleInDock": 1
+        },
+        "MitchHayes_Project2/assets/tile-map.tmx#TX Struct": {
+            "scaleInDock": 1
+        },
+        "MitchHayes_Project2/assets/tile-map.tmx#TX Tileset Grass": {
+            "scaleInDock": 1
+        },
+        "MitchHayes_Project2/assets/tile-map.tmx#TX Tileset Stone Ground": {
+            "scaleInDock": 1
+        },
+        "MitchHayes_Project2/assets/tile-map.tmx#TX Tileset Wall": {
+            "scaleInDock": 1
+        },
+        "MitchHayes_Project2/tile-map.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 287,
+                "y": 313.66666666666663
+            }
+        },
+        "MitchHayes_Project2/tile-map.tmx#TX Plant": {
+            "scaleInDock": 1
+        },
+        "MitchHayes_Project2/tile-map.tmx#TX Props": {
+            "scaleInDock": 0.75
+        },
+        "MitchHayes_Project2/tile-map.tmx#TX Shadow": {
+            "scaleInDock": 1
+        },
+        "MitchHayes_Project2/tile-map.tmx#TX Struct": {
+            "scaleInDock": 0.75
+        },
+        "MitchHayes_Project2/tile-map.tmx#TX Tileset Grass": {
+            "scaleInDock": 1
+        },
+        "MitchHayes_Project2/tile-map.tmx#TX Tileset Stone Ground": {
+            "scaleInDock": 1
+        },
+        "MitchHayes_Project2/tile-map.tmx#TX Tileset Wall": {
+            "scaleInDock": 1
+        },
+        "MitchHayes_Project2/tile-map.tmx#lvl1": {
+            "scaleInDock": 1
+        },
+        "MitchHayes_Project2/tile-map.tmx#main": {
+            "scaleInDock": 1
+        }
+    },
+    "last.imagePath": "C:/Users/hayes/GolandProjects/Pixel Art Top Down - Basic/Texture",
+    "map.height": 20,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 32,
+    "map.tileWidth": 32,
+    "map.width": 20,
+    "openFiles": [
+        "MitchHayes_Project2/tile-map.tmx"
+    ],
+    "project": "project2 tile map.tiled-project",
+    "recentFiles": [
+        "MitchHayes_Project2/assets/tile-map.tmx",
+        "MitchHayes_Project2/tile-map.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.tileSize": {
+        "height": 32,
+        "width": 32
+    },
+    "tileset.type": 0
+}
